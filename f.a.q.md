@@ -8,7 +8,7 @@ description: FAQ for Cyber Security Platform
 
 Yes, each tenant will have the ability to create and manage multiple users within their tenant account.
 
-## Do you accept cryptocurrency as for of payment?
+## Do you accept cryptocurrency as form of payment?
 
 Yes, please contact us at info@blockchainsecurity.services to arrange payment.
 
