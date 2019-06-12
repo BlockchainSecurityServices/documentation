@@ -1,4 +1,7 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Cyber Security Platform](README.md)
+* [Change Log](untitled.md)
+* [F.A.Q](f.a.q.md)
+* [API](api.md)
 
